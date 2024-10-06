@@ -203,7 +203,7 @@
 .lots__look-more-link {
     font-size: 20px;
     text-decoration: underline;
-    padding: 8px 0px 5px 64px;
+    padding: 8px 0px 5px 40px;
     line-height: 15px;
 }
 /* ТУТ НАЧИНАЕТСЯ 4 ЧАСТЬ */
@@ -211,7 +211,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 72px;
-    padding: 182px 24px 180px 24px;
+    padding: 180px 24px 180px 24px;
     margin-left: 47px;
 }
 
